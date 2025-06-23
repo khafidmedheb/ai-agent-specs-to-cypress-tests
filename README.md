@@ -3,7 +3,7 @@
 [![Build](https://img.shields.io/github/actions/workflow/status/your-repo/main.yml?branch=main)]()
 [![License](https://img.shields.io/badge/license-MIT-green.svg)]()
 
-An intelligent test automation pipeline using **Langchain**, **OpenAI**, and **Cypress**.
+An AI-powered test automation pipeline that reads Jira/Xray specs, generates Cypress tests, runs them, and delivers reports via Markdown/JSON or webhooks.
 
 ## 🚀 Features
 
