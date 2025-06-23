@@ -1,3 +1,5 @@
+⚠️ **This repository is currently under active development. Features and structure may change frequently.**
+
 # 🤖 Cypress Test Agent with Langchain
 
 [![Build](https://img.shields.io/github/actions/workflow/status/your-repo/main.yml?branch=main)]()
@@ -33,7 +35,7 @@ scripts/
 ## 🛠 Installation
 
 ```bash
-python -m venv venv && source venv/bin/activate
+python -m venv venv && source venv/Scripts/activate
 pip install -r requirements.txt
 npm install
 ```
